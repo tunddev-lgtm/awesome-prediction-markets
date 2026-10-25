@@ -145,7 +145,7 @@ Building AI agents that reason over prediction market data.
 - [causal-tree-decomposition](https://github.com/spfunctions/causal-tree-decomposition) — Standalone probability engine. Decompose a thesis into a causal tree, compute weighted confidence.
 - [kalshi-price-monitor](https://github.com/spfunctions/kalshi-price-monitor) — Terminal price alert monitor for Kalshi markets.
 - [polymarket-marketmaking](https://github.com/elielieli909/polymarket-marketmaking) — Market making bot for Polymarket.
-- [OpenThomas](https://github.com/PredictionMarketTrader/openthomas) — Open-source Python AI agent (`pip install openthomas`) that trades Kalshi and Polymarket weather markets using multi-model forecast consensus, station bias hindcasts, and fractional Kelly sizing.
+- [OpenThomas](https://github.com/PredictionMarketTrader/openthomas) — Open-source Python AI agent (`pip install openthomas`) that trades daily temperature markets on Kalshi (with Polymarket in paper mode) using a 7-model forecast consensus, learned station bias, and fractional Kelly sizing.
 - [nevbot](https://github.com/neverix/nevbot) — Manifold market maker using OpenAI to answer questions.
 
 ## Data & Datasets
